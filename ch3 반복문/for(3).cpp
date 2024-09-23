@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    printf("1~10±îÁö È¦¼ö Ãâ·Â\n");
+    printf("1~10ê¹Œì§€ í™€ìˆ˜ ì¶œë ¥\n");
     for(int i=1;i<=10;i+=2){
         printf("%d ",i);
     }

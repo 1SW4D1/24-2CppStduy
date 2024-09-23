@@ -6,6 +6,6 @@ int main()
         printf("%d ",i);
     }
     printf("\n");
-    printf("for¹®ÀÌ Á¾·áµÈ ÈÄ iÀÇ °ªÀº %dÀÌ´Ù.",i);
+    printf("forë¬¸ì´ ì¢…ë£Œëœ í›„ iì˜ ê°’ì€ %dì´ë‹¤.",i);
     return 0;
 }
