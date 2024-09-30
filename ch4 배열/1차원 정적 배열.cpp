@@ -5,9 +5,9 @@ int main()
     int arr2[] = {1, 5};
     int arr3[3] = {0,};
 
-    printf("arrÀÇ byte Å©±â : %d\n",sizeof(arr));
-    printf("arr2ÀÇ byte Å©±â : %d\n",sizeof(arr2));
-    printf("arr3ÀÇ byte Å©±â : %d\n\n",sizeof(arr3));
+    printf("arrì˜ byte í¬ê¸° : %d\n",sizeof(arr));
+    printf("arr2ì˜ byte í¬ê¸° : %d\n",sizeof(arr2));
+    printf("arr3ì˜ byte í¬ê¸° : %d\n\n",sizeof(arr3));
 
     for(int i=0;i<sizeof(arr)/sizeof(int);i++){
         printf("arr[%d] : %d\n",i,arr[i]);
